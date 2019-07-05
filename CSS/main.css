@@ -1,0 +1,24 @@
+#headwrapper{
+    position: relative;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+    height:400px;
+    background-image: url(../IMG/headerbg.jpg);
+    background-repeat: no-repeat;
+    background-position:top center;
+}
+
+h1{
+    text-align:center;
+    position: relative;
+    top:40%;
+}
+
+#featureditems{
+    margin:10px;
+}
+
+div.row{
+    margin:10px 80px;
+}
